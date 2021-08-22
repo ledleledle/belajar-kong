@@ -14,7 +14,7 @@ server.get('/two', (req, res) => {
 
 server.get('/three', (req, res) => {
   console.log(req.headers)
-  res.status(200).send('{"version": "API:3.0"}')
+  res.status(200).send('API V3')
 })
  
 server.listen(port, () => {

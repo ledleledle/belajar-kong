@@ -17,9 +17,9 @@ Then create your own user
 ### Example App
 ```
 <your_ip>:3000
-/slash
-/hello
-/lebah
+/one
+/two
+/three
 ```
 
 Wait 1-2 minutes, until **Konga** ready to use!
